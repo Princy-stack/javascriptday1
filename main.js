@@ -39,5 +39,8 @@ function calculatrice (a, b ,signe){
     if(signe=="division"){
         return a/b;
     }
+    if(signe=="multiplication"){
+        return a * b;
+    }
     console.log(calculatrice());
 }
