@@ -29,7 +29,7 @@ function preparing() {
 // if ("blue" =="red"){
 //     console.log()
 // } 
-// git pull en ligne to local
+
 function calculatrice (a, b ,signe){
     if(signe=="addition"){
         return a+b;
