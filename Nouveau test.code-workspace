@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\Nouveau test"
+		},
+		{
+			"path": "..\\Integration 1"
+		},
+		{
+			"path": "..\\Integration bootstrap"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\Users\\TAFA\\OneDrive\\Documents\\projet\\InitiationGit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Nouveau test"
+	}
+}
